@@ -18,9 +18,9 @@ I am a Ph.D. student jointly trained at Beijing Jiaotong University and the Inst
 
 {% include_relative _includes/publications.md %}
 
-<!-- # Internships
+# Internships
 
-- 2025.4 - 2025.10, Tencent Robotics X, Research Intern, ShenZhen -->
+- 2025.4 - 2025.10, Tencent Robotics X, Research Intern, ShenZhen
 
-<!-- {% include_relative _includes/services.md %} -->
+{% include_relative _includes/services.md %}
 
