@@ -18,5 +18,9 @@ I am a Ph.D. student jointly trained at Beijing Jiaotong University and the Inst
 
 {% include_relative _includes/publications.md %}
 
+### Other Publications
+
+- **Weijie Zhou**, Zijun Wang, Minshu Zhang, Liwen Wang. *Wind turbine actual defects detection based on visible and infrared image fusion*. **IEEE TIM**, 2023.3 
+
 {% include_relative _includes/services.md %}
 
