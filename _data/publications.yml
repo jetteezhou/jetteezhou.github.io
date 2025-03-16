@@ -3,17 +3,20 @@ main:
   - title: LightPlanner: Unleashing the Reasoning Capabilities of Lightweight Large Language Models in Task Planning
     authors: <strong>Weijie Zhou</strong>, Manli Tao, Chaoyang Zhao*, Honghui Dong, Ming Tang, Jinqiao Wang (*Corresponding authors)
     conference_short: IROS 2025
-    conference: IEEE/RSJ International Conference on Intelligent Robots and Systems (<strong>IROS 2025</strong>)
+    conference: IEEE/RSJ International Conference on Intelligent Robots and Systems (<strong>(IROS)</strong>), 2025
     pdf: https://arxiv.org/abs/2503.08508
     code: https://github.com/unira-zwj/LightPlanner
+    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
     image: ./assets/img/lightplanner.png
     notes: Submitted
 
   - title: PhysVLM: Enabling Visual Language Models to Understand Robotic Physical Reachability
     authors: <strong>Weijie Zhou</strong>, Manli Tao, Chaoyang Zhao*, Haiyun Guo, Honghui Dong, Ming Tang, Jinqiao Wang* (*Corresponding authors)
     conference_short: CVPR 2025
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition (<strong>CVPR 2025</strong>)
+    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition (<strong>(CVPR)</strong>), 2025
     pdf: https://arxiv.org/abs/2503.08481
     code: https://github.com/unira-zwj/PhysVLM
+    page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
     image: ./assets/img/physvlm.png
     notes: Accepted
