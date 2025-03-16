@@ -6,7 +6,6 @@ main:
     conference: IEEE/RSJ International Conference on Intelligent Robots and Systems (<strong>IROS 2025</strong>)
     pdf: https://arxiv.org/abs/2503.08508
     code: https://github.com/unira-zwj/LightPlanner
-    # bibtex: LightPlanner
     image: ./assets/img/lightplanner.png
     notes: Submitted
 
@@ -16,7 +15,5 @@ main:
     conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition (<strong>CVPR 2025</strong>)
     pdf: https://arxiv.org/abs/2503.08481
     code: https://github.com/unira-zwj/PhysVLM
-    # page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
     image: ./assets/img/physvlm.png
     notes: Accepted
