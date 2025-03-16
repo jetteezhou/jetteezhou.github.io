@@ -13,9 +13,14 @@ I am a Ph.D. student jointly trained at Beijing Jiaotong University and the Inst
 
 ## News
 
-- **[2025.03.2]** 🔥Our paper **LightPlanner: Unleashing the Reasoning Capabilities of Lightweight Large Language Models in Task Planning** is submitted to **IROS 2025**.
-- **[2025.02.07]** 🔥Our paper **PhysVLM: Enabling Visual Language Models to Understand Robotic Physical Reachability** is accepted to **CVPR 2025**.
+- 2025.03: One paper **LightPlanner** is submitted to **IROS 2025**.
+- 2025.02: 🎉 One paper **PhysVLM** is accepted by **CVPR 2025**.
 
 {% include_relative _includes/publications.md %}
 
+<!-- # Internships
+
+- 2025.4 - 2025.10, Tencent Robotics X, Research Intern, ShenZhen -->
+
 {% include_relative _includes/services.md %}
+
