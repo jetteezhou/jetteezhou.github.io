@@ -4,12 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student jointly trained at Beijing Jiaotong University and the Institute of Automation, Chinese Academy of Sciences. My research focuses on embodied artificial intelligence and multimodal large language models, with a primary emphasis on embodied cognition, task planning, and decision-making.
-
-## Research Interests
-
-- **Embodied AI:** embodied cognition, task planning, and decision-making
-- **MLLM:** pre-train, SFT, and RL training
+I am a Ph.D. student jointly trained at Beijing Jiaotong University and the Institute of Automation, Chinese Academy of Sciences. My research focuses on **Embodied Artificial Intelligence (EAI)** and  **Multimodal Large Language Models(MLLMs)**, with a primary emphasis on embodied cognition, task planning, and decision-making.
 
 ## News
 
@@ -21,6 +16,10 @@ I am a Ph.D. student jointly trained at Beijing Jiaotong University and the Inst
 ### Other Publications
 
 - **Weijie Zhou**, Zijun Wang, Minshu Zhang, Liwen Wang. *Wind turbine actual defects detection based on visible and infrared image fusion*. **IEEE TIM**, 2023.3 
+
+### Internships
+
+- 2025.03 - now, Tencent, Robotics X Lab, Shenzhen.
 
 {% include_relative _includes/services.md %}
 
