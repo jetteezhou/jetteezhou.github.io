@@ -17,7 +17,7 @@ I am a Ph.D. student jointly trained at Beijing Jiaotong University and the Inst
 
 - **Weijie Zhou**, Zijun Wang, Minshu Zhang, Liwen Wang. *Wind turbine actual defects detection based on visible and infrared image fusion*. **IEEE TIM**, 2023.3 
 
-### Internships
+## Internships
 
 - 2025.03 - now, Tencent, Robotics X Lab, Shenzhen.
 
