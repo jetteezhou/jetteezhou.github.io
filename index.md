@@ -14,9 +14,9 @@ My research bridges Embodied Artificial Intelligence (EAI) and Multimodal Large 
 
 ## News
 
-- 2025.08: 🎊 Recipient of the **Outstanding Intern Award**, **Tencent Robotics X Lab**.
-- 2025.06: 🎉 One paper **LightPlanner** is accepted to **IROS 2025**.
-- 2025.02: 🎉 One paper **PhysVLM** is accepted by **CVPR 2025**.
+- 2025.08: 🎊 Recipient of the **`Outstanding Intern Award`**, **`Tencent Robotics X Lab`**.
+- 2025.06: 🎉 One paper **`LightPlanner`** is accepted to **`IROS 2025`**.
+- 2025.02: 🎉 One paper **`PhysVLM`** is accepted by **`CVPR 2025`**.
 
 {% include_relative _includes/publications.md %}
 
