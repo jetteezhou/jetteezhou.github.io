@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student jointly trained at Beijing Jiaotong University and the Institute of Automation, Chinese Academy of Sciences (CASIA), fortunate to be co-advised by Prof. [Jinqiao Wang](https://nlpr.ia.ac.cn/iva/homepage/jqwang/index.htm), [Honghui Dong](https://faculty.bjtu.edu.cn/8022/) and Dr. [Chaoyang Zhao](https://ia.cas.cn/rcdw/fyjy/202404/t20240422_7129867.html).
+I am a Ph.D. student jointly trained at Beijing Jiaotong University and the Institute of Automation, Chinese Academy of Sciences (CASIA), fortunate to be co-advised by Prof. [Jinqiao Wang](https://nlpr.ia.ac.cn/iva/homepage/jqwang/index.htm), Prof. [Honghui Dong](https://faculty.bjtu.edu.cn/8022/) and Dr. [Chaoyang Zhao](https://ia.cas.cn/rcdw/fyjy/202404/t20240422_7129867.html).
 
 My research bridges Embodied Artificial Intelligence (EAI) and Multimodal Large Language Models (MLLMs), focusing on enabling intelligent agents to perceive, reason, and act in dynamic physical environments. During my internship at Tencent Robotics X Lab, I applied this research direction to the development of the TAIROS embodied AI platform. I aim to develop robust, generalizable AI & Robotic systems that can understand and interact with the world.
 
