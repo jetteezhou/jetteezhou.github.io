@@ -2,7 +2,8 @@ main:
 
   - title: "TAIROS: An Embodied AI Platform for Robotics Applications"
     authors: Co-authored by Tencent Robotics X Lab
-    conference_short: Tencent Robotics X Lab Tech Report, 2025
+    conference: Tencent Robotics X Lab Tech Report , 2025
+    conference_short: Tencent Robotics X Lab
     pdf: https://cdn.tairos.tencent-cloud.com/downloads/tools/pdf/tairos.pdf
     image: ./assets/img/tairos.png
     notes: Released
