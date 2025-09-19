@@ -14,6 +14,7 @@ My research bridges Embodied Artificial Intelligence (EAI) and Multimodal Large 
 
 ## News
 
+- 2025.09: 📄 One paper **AVR** is accepted to **NIPS 2025**.
 - 2025.08: 🎊 Recipient of the **Outstanding Intern Award**, **Tencent Robotics X Lab**.
 - 2025.08: 📄 Co-authored technical report **TAIROS: An Embodied AI Platform for Robotics Applications** released by **Tencent Robotics X Lab**.
 - 2025.06: 📄 One paper **LightPlanner** is accepted to **IROS 2025**.
