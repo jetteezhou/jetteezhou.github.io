@@ -595,3 +595,52 @@ footer {
   display:none;
   font-family: monospace;
 }
+
+/* 关键词高亮样式 */
+.highlight-conference {
+  color: #007bff !important;
+  font-weight: bold;
+}
+
+.highlight-award {
+  color: #ffc107 !important;
+  font-weight: bold;
+}
+
+.highlight-project {
+  color: #28a745 !important;
+  font-weight: bold;
+}
+
+.highlight-company {
+  color: #6f42c1 !important;
+  font-weight: bold;
+}
+
+.highlight-research {
+  color: #28a745 !important;
+  font-weight: bold;
+}
+
+/* 深色模式下的高亮样式 */
+@media (prefers-color-scheme: dark) {
+  .highlight-conference {
+    color: #66b3ff !important;
+  }
+  
+  .highlight-award {
+    color: #ffd700 !important;
+  }
+  
+  .highlight-project {
+    color: #4ade80 !important;
+  }
+  
+  .highlight-company {
+    color: #a78bfa !important;
+  }
+  
+  .highlight-research {
+    color: #4ade80 !important;
+  }
+}
