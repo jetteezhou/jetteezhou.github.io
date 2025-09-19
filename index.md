@@ -30,10 +30,10 @@ My research bridges <span class="highlight-research">Embodied Artificial Intelli
 #### <span class="highlight-company">Tencent, Robotics X Lab</span>, Shenzhen | March 2025 - Present
 
 - **Research Experience**
-    - June 2025 - August 2025: Participated in the development of <span class="highlight-project">*TAIROS embodied AI platform*</span>, focusing on frameworks for embodied planning modules. Led the research and training of embodied active exploration VLM. Co-authored technical report <span class="highlight-project">*"TAIROS: An Embodied Artificial Intelligence Platform for Robotics Applications."*</span>
+    - June 2025 - August 2025: Participated in the development of *TAIROS embodied AI platform*, focusing on frameworks for embodied planning modules. Led the research and training of embodied active exploration VLM. Co-authored technical report *"TAIROS: An Embodied Artificial Intelligence Platform for Robotics Applications."*
 
 - **Project Experience**
-    - July 2025 - August 2025: Contributed to <span class="highlight-company">Tencent's</span> robot guidance project at <span class="highlight-conference">WAIC 2025</span> exhibition. Responsible for developing and maintaining cloud-based planning module services and robot-side SDK, integrating with <span class="highlight-project">Unitree G1</span> and <span class="highlight-company">Tencent Xiao Wu</span> robots.
+    - July 2025 - August 2025: Contributed to Tencent's robot guidance project at WAIC 2025 exhibition. Responsible for developing and maintaining cloud-based planning module services and robot-side SDK, integrating with Unitree G1 and Tencent Xiao Wu robots.
 
 {% include_relative _includes/services.md %}
 
