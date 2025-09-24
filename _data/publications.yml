@@ -13,7 +13,7 @@ main:
     conference_short: IROS 2025
     conference: IEEE/RSJ International Conference on Intelligent Robots and Systems <strong>(IROS)</strong>, 2025
     pdf: https://arxiv.org/abs/2503.08508
-    code: https://github.com/unira-zwj/LightPlanner
+    code: https://github.com/jetteezhou/LightPlanner
     image: ./assets/img/lightplanner.png
     notes: Oral Accepted
     # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
@@ -24,7 +24,7 @@ main:
     conference_short: CVPR 2025
     conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2025
     pdf: https://arxiv.org/abs/2503.08481
-    code: https://github.com/unira-zwj/PhysVLM
+    code: https://github.com/jetteezhou/PhysVLM
     image: ./assets/img/physvlm.png
     notes: Accepted
     # page: https://class-il.mpi-inf.mpg.de/mnemonics/
