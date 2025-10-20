@@ -1,6 +1,6 @@
 # Basic Information 
 title: Weijie Zhou
-position: Ph.D. Student
+position: Ph.D. Candidate
 affiliation: BJTU & CASIA
 email: elonzhou99@gmail.com
 
@@ -13,7 +13,7 @@ email: elonzhou99@gmail.com
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
 google_scholar: https://scholar.google.com/citations?user=1t2Y8jQAAAAJ&hl=zh-CN
-cv_link: assets/files/cv.pdf
+cv_link: assets/files/cv-zhouweijie.pdf
 github_link: https://github.com/jetteezhou
 # linkedin: https://www.linkedin.com/
 # twitter: https://twitter.com/
@@ -26,7 +26,7 @@ favicon_dark: ./assets/img/favicon-dark.png
 
 # Footnote
 # You may use the option to disable the footnote, "Powered by Jekyll and Minimal Light theme."
-enable_footnote: true
+# enable_footnote: true
 
 # Auto Dark Mode
 # You may use the option to disable the automatic dark theme
