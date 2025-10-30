@@ -1,5 +1,14 @@
 main:
 
+  - title: "PhysVLM-AVR: Active Visual Reasoning for Multimodal Large Language Models in Physical Environments"
+    authors: <strong>Weijie Zhou</strong>, Xuantang Xiong, Yi Peng,Manli Tao, Chaoyang Zhao*, Honghui Dong, Ming Tang, Jinqiao Wang
+    conference_short: NIPS 2025
+    conference: 39th Conference on Neural Information Processing Systems <strong>(NIPS)</strong>, 2025
+    pdf: https://arxiv.org/abs/2510.21111
+    code: https://github.com/jetteezhou/PhysVLM
+    image: ./assets/img/physvlm-avr.png
+    notes: Accepted
+  
   - title: "TAIROS: An Embodied AI Platform for Robotics Applications"
     authors: Co-authored by Tencent Robotics X Lab
     conference: Tencent Robotics X Lab Tech Report , 2025

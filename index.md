@@ -14,7 +14,7 @@ My research bridges **Embodied Artificial Intelligence (EAI)** and **Multimodal 
 
 ## News
 
-- 2025.09: 📄 One paper **AVR** was accepted to <span class="highlight-conference">NIPS 2025</span>.
+- 2025.09: 📄 One paper **PhysVLM-AVR** was accepted to <span class="highlight-conference">NIPS 2025</span>.
 - 2025.08: 🎊 Recipient of the <span class="highlight-award">Outstanding Intern Award</span>, <span class="highlight-company">Tencent Robotics X Lab</span>.
 - 2025.08: 📄 Co-authored technical report **TAIROS** released by <span class="highlight-company">Tencent Robotics X Lab</span>.
 - 2025.06: 📄 One paper **LightPlanner** was accepted to <span class="highlight-conference">IROS 2025</span>.
