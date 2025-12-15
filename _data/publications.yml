@@ -14,6 +14,7 @@ main:
     conference: Tencent Robotics X Lab Tech Report , 2025
     conference_short: Tencent Robotics X Lab
     pdf: https://cdn.tairos.tencent-cloud.com/downloads/tools/pdf/tairos.pdf
+    page: https://tairos.tencent.com/
     image: ./assets/img/tairos.png
     notes: Released
 
