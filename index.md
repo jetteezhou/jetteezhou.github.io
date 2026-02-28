@@ -18,7 +18,7 @@ My research goal is to build generalist agents capable of cognizing and interact
 - 2026.01: [<span class="highlight-award">Award</span>] 🏆 Honored to receive the **Annual Outstanding Intern Award** (sole recipient of the full year) from <span class="highlight-company">Tencent Robotics X Lab</span>.
 - 2025.09: [<span class="highlight-conference">NeurIPS 2025</span>] 📄 One paper **PhysVLM-AVR** has been accepted!
 - 2025.08: [<span class="highlight-award">Award</span>] 🏆 Honored to receive the **Outstanding Intern Award** (2025 H2) from <span class="highlight-company">Tencent Robotics X Lab</span>.
-- 2025.08: [<span class="highlight-conference">Technical Report</span>] 📄 Co-authored technical report **TAIROS** (TAIRIS技术报告) released by <span class="highlight-company">Tencent Robotics X Lab</span> (腾讯Robotics X实验室).
+- 2025.08: [<span class="highlight-conference">Technical Report</span>] 📄 Co-authored technical report **TAIROS** (TAIROS技术报告) released by <span class="highlight-company">Tencent Robotics X Lab</span> (腾讯Robotics X实验室).
 - 2025.06: [<span class="highlight-conference">IROS 2025</span>] 📄 One paper **LightPlanner** accepted.
 - 2025.02: [<span class="highlight-conference">CVPR 2025</span>] 📄 **PhysVLM** accepted.
 
