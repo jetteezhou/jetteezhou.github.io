@@ -13,6 +13,28 @@
     {% if site.canonical %}
     <link rel="canonical" href="{{ site.canonical }}"/>
     {% endif %}
+    
+    <!-- Open Graph / Facebook -->
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="{{ site.canonical | default: 'https://jetteezhou.github.io/' }}">
+    <meta property="og:title" content="{{ site.title }} | {{ site.affiliation }}">
+    <meta property="og:description" content="{{ site.description }}">
+    {% if site.avatar %}
+    <meta property="og:image" content="{{ site.canonical | default: 'https://jetteezhou.github.io/' }}{{ site.avatar }}">
+    {% endif %}
+    
+    <!-- Twitter -->
+    <meta property="twitter:card" content="summary_large_image">
+    <meta property="twitter:url" content="{{ site.canonical | default: 'https://jetteezhou.github.io/' }}">
+    <meta property="twitter:title" content="{{ site.title }} | {{ site.affiliation }}">
+    <meta property="twitter:description" content="{{ site.description }}">
+    {% if site.avatar %}
+    <meta property="twitter:image" content="{{ site.canonical | default: 'https://jetteezhou.github.io/' }}{{ site.avatar }}">
+    {% endif %}
+    
+    <!-- Author -->
+    <meta name="author" content="{{ site.title }}">
+    <meta name="robots" content="index, follow">
 
     <link rel="icon" media="(prefers-color-scheme:dark)" href="{{ site.favicon_dark }}" type="image/png" />
     <link rel="icon" media="(prefers-color-scheme:light)" href="{{ site.favicon }}" type="image/png" />
@@ -119,5 +141,32 @@
       ga('send', 'pageview');
     </script>
     {% endif %}
+    
+    <!-- Structured Data (Schema.org) -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "Person",
+      "name": "{{ site.title }}",
+      "jobTitle": "{{ site.position }}",
+      "affiliation": {
+        "@type": "Organization",
+        "name": "{{ site.affiliation }}"
+      },
+      "email": "{{ site.email }}",
+      "url": "{{ site.canonical | default: 'https://jetteezhou.github.io/' }}",
+      {% if site.avatar %}
+      "image": "{{ site.canonical | default: 'https://jetteezhou.github.io/' }}{{ site.avatar }}",
+      {% endif %}
+      "sameAs": [
+        {% if site.google_scholar %}"{{ site.google_scholar }}"{% if site.github_link or site.linkedin or site.twitter %},{% endif %}{% endif %}
+        {% if site.github_link %}"{{ site.github_link }}"{% if site.linkedin or site.twitter %},{% endif %}{% endif %}
+        {% if site.linkedin %}"{{ site.linkedin }}"{% if site.twitter %},{% endif %}{% endif %}
+        {% if site.twitter %}"{{ site.twitter }}"{% endif %}
+      ],
+      "description": "{{ site.description }}",
+      "keywords": "{{ site.keywords }}"
+    }
+    </script>
   </body>
 </html>

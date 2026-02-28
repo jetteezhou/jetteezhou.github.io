@@ -6,9 +6,9 @@ email: weijiezhou01@gmail.com
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
-keywords: Weijie Zhou, Embodied AI, Multimodal LLM, Robotics, CVPR, NeurIPS, IROS, VLM, Spatial Reasoning
-description: Weijie Zhou is a Ph.D. candidate at BJTU & CASIA, working on embodied spatial reasoning, multimodal large language models, and robot planning.
-# canonical: https://jetteezhou.github.io/
+keywords: Weijie Zhou, 周伟杰, 论文, paper, research, Embodied AI, Multimodal LLM, Robotics, CVPR, NeurIPS, IROS, VLM, Spatial Reasoning, 腾讯Robotics X实验室, Tencent Robotics X Lab, TAIROS, TAIRIS技术报告, TAIROS技术报告, PhysVLM, LightPlanner, PhysVLM-AVR, Active Visual Reasoning for Multimodal Large Language Models in Physical Environments, TAIROS An Embodied AI Platform for Robotics Applications, LightPlanner Unleashing the Reasoning Capabilities of Lightweight Large Language Models in Task Planning, PhysVLM Enabling Visual Language Models to Understand Robotic Physical Reachability, embodied AI platform, multi-agent reasoning, 北京交通大学, 中科院自动化所, BJTU, CASIA
+description: Weijie Zhou (周伟杰) is a Ph.D. candidate at BJTU & CASIA, former Research Intern at Tencent Robotics X Lab. Working on embodied spatial reasoning, multimodal large language models, robot planning. Publications: PhysVLM-AVR (NeurIPS 2025), PhysVLM (CVPR 2025), LightPlanner (IROS 2025), and TAIROS technical report. Research on Active Visual Reasoning for Multimodal Large Language Models in Physical Environments, Visual Language Models for Robotic Physical Reachability, and Lightweight Large Language Models in Task Planning.
+canonical: https://jetteezhou.github.io/
 
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
