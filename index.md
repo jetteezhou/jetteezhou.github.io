@@ -11,7 +11,7 @@ My research focuses on **Embodied Foundation Models** and **World Models**, with
 
 ## News
 
-- **[2026.04]** 🤖 Served as the primary contributor to the training of **HY-Embodied-0.5-X** and supported its open release; the model ranked first among edge-size models on 7 out of 10 embodied benchmarks.
+- **[2026.04]** 🤖 Primarily led the training of **[HY-Embodied-0.5-X](https://huggingface.co/tencent/HY-Embodied-0.5-X)**; [GitHub](https://github.com/Tencent-Hunyuan/HY-Embodied-0.5-X/) | ranked No.1 on 7/10 embodied benchmarks among edge-size models.
 - **[2026.03]** 🚀 Selected for the elite *Tencent "Project UP"* (腾讯青云计划).
 - **[2025.12]** 🏆 Awarded the **Outstanding Intern (2025 H2)** at *Tencent Robotics X Lab*.
 - **[2025.09]** 🎉 One paper (**PhysVLM-AVR**) accepted to <span class="highlight-conference">NeurIPS 2025</span>.
