@@ -11,7 +11,7 @@ My research focuses on **Embodied Foundation Models** and **World Models**, espe
 
 ## News
 
-- **[2026.04]** 🤖 Primarily led the training of **HY-Embodied-0.5-X** [Hugging Face](https://huggingface.co/tencent/HY-Embodied-0.5-X); [GitHub](https://github.com/Tencent-Hunyuan/HY-Embodied-0.5-X/) | ranked No.1 on 7/10 embodied benchmarks among edge-size models.
+- **[2026.04]** 🤖 Primarily led the training of **[HY-Embodied-0.5-X](https://huggingface.co/tencent/HY-Embodied-0.5-X)**; [GitHub](https://github.com/Tencent-Hunyuan/HY-Embodied-0.5-X/) | ranked No.1 on 7/10 embodied benchmarks among edge-size models.
 - **[2026.03]** 🚀 Selected for the elite *Tencent "Project UP"* (腾讯青云计划).
 - **[2025.12]** 🏆 Awarded the **Outstanding Intern (2025 H2)** at *Tencent Robotics X Lab*.
 - **[2025.09]** 🎉 One paper (**PhysVLM-AVR**) accepted to <span class="highlight-conference">NeurIPS 2025</span>.
@@ -44,7 +44,7 @@ My research focuses on **Embodied Foundation Models** and **World Models**, espe
 - **TAIROS AI Platform**: Co-developed an embodied AI platform for robotics applications, deployed at 4+ offline events including the 2025 World AI Conference.
 - **Multi-Agent Shared Memory Reasoning**: Designed a streaming perception and on-demand reconstruction memory system enabling multi-agent long-horizon reasoning without pre-built maps.
 
-#### <span class="highlight-company">CASIA Embodied Intelligence Team</span>, Beijing &nbsp;|&nbsp; November 2024 – March 2025
+#### <span class="highlight-company">CASIA Foundation Model Research Center</span>, Beijing &nbsp;|&nbsp; November 2024 – March 2025
 
 - **Teleoperation + UMI Data Collection System**: Led the system architecture and hardware-software integration for a dual-use teleoperation and data collection platform, achieving 1.5 mm RMS positioning error, end-to-end latency under 100 ms, and deployment across 3 institutions.
 
